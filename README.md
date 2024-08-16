@@ -27,7 +27,7 @@ This tutorial demonstrates the ticket lifecycle from intake to resolution throug
 <h2>Lifecycle Stages</h2>
 
 **Stage 1: Intake **: 
-- We will create some new tickets as the users Karen and Ken created from the last tutorial.
+- We will create some new tickets as the user Karen King created from the last tutorial.
 - As either Ken or Karen we will sign into the Support Center to put in a request: http://localhost/osTicket/
   
   ![image](https://github.com/user-attachments/assets/e5051234-9db8-4e5a-9978-3aa4855f4cba)
