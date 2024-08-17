@@ -49,7 +49,7 @@ This tutorial demonstrates the ticket lifecycle from intake to resolution throug
   ![image](https://github.com/user-attachments/assets/60190132-f5c1-467d-a1c3-55283a870aef)
 
 
-- If needing to assign to another member of the team show courtesty in your written message that will transfer the ticket to them.
+- If needing to assign to another member of the team show courtesty in your written message when you are transferring the ticket to them.
 
   
 In this instance with the mobile banking issue, I will refer the ticket to Winston who is on the Level 2 Support team:
